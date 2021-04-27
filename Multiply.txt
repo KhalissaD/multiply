@@ -1,0 +1,15 @@
+Multiply
+
+firstNumber: integer
+secondNumber: integer
+resultCalc: integer
+
+result <- firstNumber/secondNumber 
+if result %4 = 0 then
+	write("Oui")
+else	
+	write("Non")
+
+endif
+
+
